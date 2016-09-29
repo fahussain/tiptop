@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-tiptop.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-tiptopTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-tiptopUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SACountingLabel-SACountingLabel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SACountingLabel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9B4F5A540B3F259F7C93E7FA832F8F02</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9C6D540067D8ED69A201ACC5A4472292</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A4CC3508BC5DE56299655B9BCF715816</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A6884E80CC00748057DD719F06635D6A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DCE670F9A02EF46DFE4B764836156C46</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

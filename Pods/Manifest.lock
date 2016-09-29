@@ -1,0 +1,12 @@
+PODS:
+  - SACountingLabel (0.1.1)
+
+DEPENDENCIES:
+  - SACountingLabel
+
+SPEC CHECKSUMS:
+  SACountingLabel: 6b0c2a177b77e65ea63772e50f4d4285bb6d5a71
+
+PODFILE CHECKSUM: 360ee1c294e6d0f20f70c9b4e78096f83fc33fef
+
+COCOAPODS: 1.0.1
